@@ -1,6 +1,5 @@
-# Demo Project README
-This is a simple readme file
-# Heading 2
-
-# Made new changes
-# On the new update branch - trouble line
+# Demo Project README File
+#### Instruction goes here
+* Keep it simple
++ __Objective__ : demo code
++ __Example__ - working demo
